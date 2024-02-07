@@ -31,7 +31,7 @@ Comment Utiliser le Générateur de Mèmes Localement
 Captures d'écran
 
 <p align="center">
-  <img src="Capture2.png" alt="Capture d'écran 2" width="1000"/>
+  <img src="Capture.png" alt="Capture d'écran" width="1000"/>
 </p>
 
 N'hésitez pas à explorer et à personnaliser ce générateur de mèmes pour répondre à vos besoins spécifiques. Amusez-vous bien et partagez vos créations hilarantes avec le monde !
